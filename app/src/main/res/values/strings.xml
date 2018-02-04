@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">geoQuiz</string>
+    <string name="invite">Welcome to Geo quiz</string>
+    <string name="invite2">Good luck!!</string>
+
+    <string name="q1ans1">Poland</string>
+    <string name="q1ans2">Hungary</string>
+    <string name="q1ans3">Romania</string>
+
+    <string name="q2ans1">Vietnam</string>
+    <string name="q2ans2">Thailand</string>
+    <string name="q2ans3">Laos</string>
+
+    <string name="q3ans1">Switzerland</string>
+    <string name="q3ans2">Slovenia</string>
+    <string name="q3ans3">Austria</string>
+
+    <string name="q4ans1">Spain</string>
+    <string name="q4ans2">Estonia</string>
+    <string name="q4ans3">France</string>
+
+    <string name="q5ans1">Sudan</string>
+    <string name="q5ans2">Egypt</string>
+    <string name="q5ans3">Iran</string>
+
+    <string name="q6ans1">Russia</string>
+    <string name="q6ans2">Canada</string>
+    <string name="q6ans3">China</string>
+
+    <string name="q7ans1">Norwegian Sea</string>
+    <string name="q7ans2">Black Sea</string>
+    <string name="q7ans3">North Sea</string>
+    <string name="q7ans4">Barents Sea</string>
+
+    <string name="q8ans1">Peru</string>
+    <string name="q8ans2">Paraguay</string>
+    <string name="q8ans3">Argentina</string>
+    <string name="q8ans4">Bolivia</string>
+
+    <string name="question1">What European country you can see below?</string>
+    <string name="question2">What is the name of the below country?</string>
+    <string name="questionNO">What seas encircles this country?</string>
+    <string name="questionTU">What seas is Turkey encircled by?</string>
+    <string name="questionChile">What are neighbours of this country? </string>
+    <string name="questionVatican">What is a name of the smallest country in the World?</string>
+    <string name="questionSA">This country is known from being producer of oil</string>
+    <string name="questionCA">What is the biggest country in Americas?</string>
+    <string name="questionAlpy">What is the name of the common mountain chain for the following countries?</string>
+    <string name="questionRU">What continents does Russia lie?</string>
+
+    <string name="submit">Submit</string>
+    <string name="result">0/10</string>
+</resources>
